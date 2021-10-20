@@ -1,0 +1,15 @@
+{
+  "name": "soaProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "victor hugo jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
